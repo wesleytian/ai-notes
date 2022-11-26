@@ -167,6 +167,7 @@ My live list of people to follow is at: https://twitter.com/i/lists/158543024576
   - https://twitter.com/alexandr_wang
   - https://twitter.com/rameerez
   - https://twitter.com/scottastevenson
+  - https://twitter.com/wesleyytian
 - Stability
   - https://twitter.com/StabilityAI
   - https://twitter.com/StableDiffusion
